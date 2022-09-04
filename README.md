@@ -7,4 +7,7 @@
   (IN SHORT TRIED TO SEE WHETHER ONLY HTML CAN 
                   FULFILL THE NEED OF CSS IN DESIGNING WEBPAGES,
                            ATLEAST TO SOME EXTENT!)
+                           
+   ![Screenshot (102)](https://user-images.githubusercontent.com/106691248/188308100-c25badcb-7b24-47d0-8ee4-ffed0f91ff65.png)
+
 
